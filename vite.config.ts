@@ -7,7 +7,8 @@ export default defineConfig(({ mode }) => {
 
   return {
     // 🔥 VERY IMPORTANT FOR GITHUB PAGES
-    base: '/GoogleAiStudioWebsite/',
+    base: '/GoogleAiStudioWebsite/',   
+     
 
     server: {
       port: 3000,
